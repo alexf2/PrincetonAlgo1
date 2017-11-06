@@ -2,7 +2,7 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="lib" path="I:/Books/Java_Algo/algs4.jar"/>
-	<classpathentry kind="lib" path="I:/Books/Java_Algo/stdlib.jar"/>
+	<classpathentry kind="lib" path="I:/Work/Java_Algo/algs4.jar"/>
+	<classpathentry kind="lib" path="I:/Work/Java_Algo/stdlib.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
